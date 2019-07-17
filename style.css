@@ -6,7 +6,7 @@ body{
 /*-----------Header Css ----------------*/
 #header
 {
-	height: 150vh;
+	height: 100vh;
      background: linear-gradient(rgba(0,0,0.6),rgba(0,0,0.6));
     background: url(images/background.jpg);
     background-position: center;
